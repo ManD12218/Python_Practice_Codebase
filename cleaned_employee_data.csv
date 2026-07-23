@@ -1,0 +1,221 @@
+employee_id,first_name,last_name,department,office_location,jobtitle,hire_date,annual_salary,performance_score,projects_completed,hire_year,hire_month,hire_day,tenure_years,salary_category,performance_category
+DEN1010,Lisa,Johnson,Analytics,Toronto,Senior Manager,2015-09-29 00:00:00,100307.0,4.7,150.0,2015,9,29,10.4,Low,Excellent
+DEN1085,Daniel,Taylor,Finance,São Paulo,Senior Manager,2021-08-07 00:00:00,157415.0,2.9,20.0,2021,8,7,4.6,Medium,Average
+DEN1118,Jennifer,Martin,Digital Marketing,Tokyo,Senior Manager,2024-03-31 00:00:00,171313.0,4.9,80.0,2024,3,31,1.9,Medium,Excellent
+DEN1145,Thomas,Thomas,Finance,São Paulo,Senior Director,2018-01-23 00:00:00,101510.0,3.4,34.0,2018,1,23,8.1,Low,Average
+DEN1016,Daniel,White,Strategy,Tokyo,Director,2023-07-21 00:00:00,87349.0,3.6,140.0,2023,7,21,2.6,Low,Good
+DEN1114,Matthew,Anderson,Digital Marketing,Sydney,Junior Analyst,2024-04-22 00:00:00,148758.0,2.8,149.0,2024,4,22,1.8,Medium,Average
+DEN1069,Maria,Brown,Creative,Sydney,Senior Director,2019-06-13 00:00:00,96990.0,2.2,67.0,2019,6,13,6.7,Low,Needs Improvement
+DEN1105,David,Martin,Analytics,London,VP,2016-02-13 00:00:00,164780.0,2.0,41.0,2016,2,13,10.0,Medium,Needs Improvement
+DEN1178,Matthew,Thomas,Account Management,London,Director,2015-10-05 00:00:00,177992.0,4.4,134.0,2015,10,5,10.4,Medium,Good
+DEN1186,James,Williams,HR,London,Senior Director,2021-10-03 00:00:00,92305.0,3.6,87.0,2021,10,3,4.4,Low,Good
+DEN1056,Thomas,Jones,Finance,Mumbai,VP,2021-11-14 00:00:00,115578.5,3.3,145.0,2021,11,14,4.3,Medium,Average
+DEN1199,Matthew,Garcia,Account Management,Toronto,Junior Analyst,2024-04-28 00:00:00,77548.0,3.6,82.0,2024,4,28,1.8,Low,Good
+DEN1026,David,Unknown,Account Management,Sydney,VP,2017-10-20 00:00:00,64761.0,3.3,145.0,2017,10,20,8.4,Low,Average
+DEN1031,Michael,Garcia,Media Planning,London,Manager,2019-07-12 00:00:00,76427.0,4.8,150.0,2019,7,12,6.6,Low,Excellent
+DEN1046,Jessica,Thompson,Digital Marketing,New York,Analyst,2021-09-09 00:00:00,158918.0,3.0,85.0,2021,9,9,4.5,Medium,Average
+DEN1172,Linda,Johnson,HR,Mumbai,Manager,2019-05-01 00:00:00,66392.0,3.1,12.0,2019,5,1,6.8,Low,Average
+DEN1083,James,Jackson,Media Planning,London,Senior Director,2020-07-07 00:00:00,64420.0,3.7,18.0,2020,7,7,5.6,Low,Good
+DEN1208,Patricia,Thomas,Strategy,Tokyo,Director,2021-06-24 00:00:00,126976.0,2.6,45.0,2021,6,24,4.7,Medium,Average
+DEN1098,Emily,Smith,Strategy,Tokyo,Senior Manager,2021-03-06 00:00:00,48584.0,3.7,28.0,2021,3,6,5.0,Low,Good
+DEN1094,Emily,Garcia,Analytics,Toronto,VP,2018-03-26 00:00:00,149976.0,4.4,145.0,2018,3,26,7.9,Medium,Good
+DEN1019,David,Jones,Finance,Tokyo,Senior Manager,2020-12-01 00:00:00,155923.0,4.9,143.0,2020,12,1,5.2,Medium,Excellent
+DEN1080,Patricia,Martinez,Media Planning,Singapore,Senior Manager,2017-07-20 00:00:00,139602.0,2.5,8.0,2017,7,20,8.6,Medium,Average
+DEN1142,William,Anderson,Creative,Tokyo,Senior Analyst,2021-05-08 00:00:00,150063.0,2.2,12.0,2021,5,8,4.8,Medium,Needs Improvement
+DEN1148,William,Brown,Creative,São Paulo,Senior Director,2016-12-20 00:00:00,78865.0,3.1,63.0,2016,12,20,9.2,Low,Average
+DEN1144,William,Thompson,Media Planning,New York,Senior Analyst,2016-10-06 00:00:00,58044.0,4.0,74.0,2016,10,6,9.4,Low,Good
+DEN1197,Michael,Martinez,HR,São Paulo,Senior Director,2023-08-17 00:00:00,152330.0,4.5,23.0,2023,8,17,2.5,Medium,Excellent
+DEN1068,Matthew,Miller,Finance,Mumbai,Director,2016-11-18 00:00:00,75024.0,4.3,46.0,2016,11,18,9.3,Low,Good
+DEN1061,Richard,Thompson,Creative,Toronto,VP,2015-01-25 00:00:00,137211.0,2.9,104.0,2015,1,25,11.1,Medium,Average
+DEN1102,Maria,Martinez,Finance,Tokyo,VP,2021-01-15 00:00:00,171967.0,3.0,146.0,2021,1,15,5.1,Medium,Average
+DEN1212,Jennifer,Johnson,HR,New York,Manager,2019-01-24 00:00:00,120655.0,2.2,134.0,2019,1,24,7.1,Medium,Needs Improvement
+DEN1070,Emily,Martinez,Media Planning,New York,Director,2020-12-22 00:00:00,157296.0,4.0,22.0,2020,12,22,5.2,Medium,Good
+DEN1017,John,White,Analytics,São Paulo,Junior Analyst,2016-04-03 00:00:00,140153.0,4.6,83.0,2016,4,3,9.9,Medium,Excellent
+DEN1190,Lisa,Anderson,Analytics,Toronto,Junior Analyst,2021-10-14 00:00:00,85222.0,4.0,99.0,2021,10,14,4.4,Low,Good
+DEN1157,Jennifer,Martinez,Media Planning,London,Senior Director,2020-03-10 00:00:00,55753.0,3.3,53.0,2020,3,10,6.0,Low,Average
+DEN1115,Sarah,White,Finance,Sydney,Manager,2021-10-22 00:00:00,137358.0,2.7,53.0,2021,10,22,4.3,Medium,Average
+DEN1160,Daniel,White,Account Management,Mumbai,Director,2018-03-04 00:00:00,146558.0,3.2,91.0,2018,3,4,8.0,Medium,Average
+DEN1112,Thomas,Martinez,Account Management,London,VP,2018-11-16 00:00:00,123421.0,3.9,113.0,2018,11,16,7.3,Medium,Good
+DEN1076,Susan,Davis,Finance,São Paulo,VP,2023-11-22 00:00:00,49520.0,2.3,61.0,2023,11,22,2.3,Low,Needs Improvement
+DEN1181,David,Johnson,Analytics,Mumbai,Senior Analyst,2024-04-24 00:00:00,166798.0,4.9,127.0,2024,4,24,1.8,Medium,Excellent
+DEN1141,Susan,White,Creative,Sydney,Junior Analyst,2017-01-08 00:00:00,116636.0,4.1,84.0,2017,1,8,9.1,Medium,Good
+DEN1206,William,Anderson,HR,Tokyo,Director,2020-10-10 00:00:00,72835.0,3.0,124.0,2020,10,10,5.4,Low,Average
+DEN1184,Maria,Anderson,Creative,Mumbai,Senior Manager,2016-05-24 00:00:00,141474.0,3.3,107.0,2016,5,24,9.8,Medium,Average
+DEN1121,Matthew,Taylor,Analytics,London,Manager,2020-04-15 00:00:00,51560.0,3.9,148.0,2020,4,15,5.9,Low,Good
+DEN1166,Daniel,Johnson,Analytics,Tokyo,Senior Director,2016-09-23 00:00:00,87532.0,2.5,47.0,2016,9,23,9.4,Low,Average
+DEN1128,Matthew,Miller,Media Planning,Singapore,Manager,2024-02-13 00:00:00,106079.0,3.0,42.0,2024,2,13,2.0,Low,Average
+DEN1067,John,Davis,Strategy,New York,Senior Analyst,2017-09-04 00:00:00,78088.0,3.4,34.0,2017,9,4,8.5,Low,Average
+DEN1074,William,Smith,Finance,Mumbai,Senior Analyst,2020-06-20 00:00:00,100605.0,3.1,71.0,2020,6,20,5.7,Low,Average
+DEN1097,Thomas,Johnson,Strategy,Sydney,Senior Analyst,2018-03-25 00:00:00,159849.0,4.6,129.0,2018,3,25,7.9,Medium,Excellent
+DEN1120,Susan,Anderson,Media Planning,Toronto,Junior Analyst,2017-12-19 00:00:00,77398.0,3.4,72.0,2017,12,19,8.2,Low,Average
+DEN1087,Susan,Williams,Account Management,New York,Senior Director,2020-01-20 00:00:00,168184.0,2.9,64.0,2020,1,20,6.1,Medium,Average
+DEN1165,Robert,Davis,Account Management,Tokyo,Analyst,2018-04-26 00:00:00,71513.0,3.5,143.0,2018,4,26,7.8,Low,Good
+DEN1096,Daniel,Smith,Finance,Toronto,Junior Analyst,2017-02-07 00:00:00,139838.0,3.9,132.0,2017,2,7,9.0,Medium,Good
+DEN1113,James,Moore,Digital Marketing,Singapore,Senior Director,2024-07-27 00:00:00,171670.0,6.300000000000001,102.0,2024,7,27,1.6,Medium,Excellent
+DEN1039,Jessica,Moore,HR,New York,Analyst,2019-12-28 12:00:00,84073.0,3.6,99.0,2019,12,28,6.2,Low,Good
+DEN1025,Emily,Johnson,HR,Mumbai,Analyst,2017-10-15 00:00:00,95224.0,2.6,119.0,2017,10,15,8.4,Low,Average
+DEN1101,David,Williams,Digital Marketing,Toronto,Director,2023-11-01 00:00:00,178100.0,2.8,5.0,2023,11,1,2.3,Medium,Average
+DEN1183,Sarah,Wilson,Digital Marketing,Toronto,VP,2017-11-03 00:00:00,54599.0,4.3,53.0,2017,11,3,8.3,Low,Good
+DEN1193,Thomas,Miller,Digital Marketing,São Paulo,Manager,2016-05-17 00:00:00,80580.0,4.6,120.0,2016,5,17,9.8,Low,Excellent
+DEN1011,Unknown,Miller,Finance,Toronto,VP,2016-08-08 00:00:00,114436.0,2.4,148.0,2016,8,8,9.6,Medium,Needs Improvement
+DEN1030,Sarah,Wilson,Creative,New York,VP,2020-08-21 00:00:00,86270.0,2.2,135.0,2020,8,21,5.5,Low,Needs Improvement
+DEN1020,Robert,Martinez,HR,Mumbai,VP,2020-10-20 00:00:00,163354.0,2.4,62.0,2020,10,20,5.3,Medium,Needs Improvement
+DEN1182,Jessica,Jones,Media Planning,São Paulo,Junior Analyst,2018-04-16 00:00:00,97845.0,2.1,56.0,2018,4,16,7.9,Low,Needs Improvement
+DEN1214,Susan,Anderson,Account Management,Singapore,Senior Director,2020-08-10 00:00:00,55552.0,2.1,40.0,2020,8,10,5.5,Low,Needs Improvement
+DEN1116,Patricia,Rodriguez,Account Management,London,Junior Analyst,2018-06-19 00:00:00,160559.0,2.1,98.0,2018,6,19,7.7,Medium,Needs Improvement
+DEN1209,Elizabeth,Martin,Finance,São Paulo,Senior Manager,2020-07-30 00:00:00,51075.0,2.3,105.0,2020,7,30,5.6,Low,Needs Improvement
+DEN1006,Michael,Lee,Digital Marketing,Mumbai,Manager,2022-11-25 00:00:00,63233.0,2.1,63.0,2022,11,25,3.2,Low,Needs Improvement
+DEN1057,Thomas,Garcia,Finance,São Paulo,Senior Manager,2023-06-07 00:00:00,109812.0,4.5,75.0,2023,6,7,2.7,Low,Excellent
+DEN1110,Linda,Thompson,Account Management,Tokyo,Senior Analyst,2015-11-20 00:00:00,145281.0,3.9,66.0,2015,11,20,10.3,Medium,Good
+DEN1137,James,Anderson,Account Management,São Paulo,Analyst,2016-01-09 00:00:00,67377.0,2.3,29.0,2016,1,9,10.1,Low,Needs Improvement
+DEN1109,Sarah,Wilson,Creative,Sydney,Director,2019-03-16 00:00:00,157901.0,2.4,140.0,2019,3,16,6.9,Medium,Needs Improvement
+DEN1066,Elizabeth,Smith,Creative,Mumbai,Manager,2022-04-16 00:00:00,62987.0,4.3,15.0,2022,4,16,3.9,Low,Good
+DEN1119,William,Brown,Finance,London,Senior Analyst,2023-06-17 00:00:00,104143.0,4.6,106.0,2023,6,17,2.7,Low,Excellent
+DEN1217,Linda,Thompson,Digital Marketing,New York,VP,2017-12-23 00:00:00,104649.0,4.2,127.0,2017,12,23,8.2,Low,Good
+DEN1156,James,Thompson,Creative,Mumbai,Analyst,2018-06-25 00:00:00,166043.0,3.4,19.0,2018,6,25,7.7,Medium,Average
+DEN1032,Lisa,Thompson,Creative,London,Senior Director,2022-05-16 00:00:00,127934.0,4.8,57.0,2022,5,16,3.8,Medium,Excellent
+DEN1013,Sarah,Brown,Account Management,Tokyo,Senior Director,2021-09-08 00:00:00,61653.0,3.2,124.0,2021,9,8,4.5,Low,Average
+DEN1036,John,Lee,Digital Marketing,London,Senior Analyst,2017-12-19 00:00:00,75258.0,4.7,146.0,2017,12,19,8.2,Low,Excellent
+DEN1029,Maria,Thomas,Finance,Tokyo,Manager,2018-04-30 00:00:00,102068.0,4.9,143.0,2018,4,30,7.8,Low,Excellent
+DEN1043,Lisa,Rodriguez,Account Management,London,Senior Director,2015-06-08 00:00:00,168388.0,2.7,122.0,2015,6,8,10.7,Medium,Average
+DEN1179,Susan,Smith,HR,São Paulo,Junior Analyst,2022-02-16 00:00:00,146418.0,4.9,69.0,2022,2,16,4.0,Medium,Excellent
+DEN1143,Michael,Martin,Strategy,Toronto,Senior Director,2020-02-02 00:00:00,134363.0,2.5,84.0,2020,2,2,6.1,Medium,Average
+DEN1153,Daniel,Brown,Strategy,Mumbai,Director,2023-02-27 00:00:00,83716.0,2.7,42.0,2023,2,27,3.0,Low,Average
+DEN1052,Michael,Martinez,Analytics,London,Manager,2022-07-18 00:00:00,126374.0,2.7,55.0,2022,7,18,3.6,Medium,Average
+DEN1176,Linda,White,Finance,London,Analyst,2024-05-20 00:00:00,176027.0,3.8,9.0,2024,5,20,1.8,Medium,Good
+DEN1079,William,Brown,Account Management,Singapore,Manager,2023-04-14 00:00:00,171929.0,2.8,139.0,2023,4,14,2.9,Medium,Average
+DEN1077,Richard,Davis,Digital Marketing,Mumbai,VP,2021-03-17 00:00:00,135113.0,3.3,145.0,2021,3,17,4.9,Medium,Average
+DEN1042,Lisa,Garcia,Account Management,Toronto,Junior Analyst,2017-01-04 00:00:00,132080.0,4.3,110.0,2017,1,4,9.1,Medium,Good
+DEN1138,Jennifer,Jones,Creative,Mumbai,Analyst,2019-08-10 00:00:00,137693.0,4.6,113.0,2019,8,10,6.5,Medium,Excellent
+DEN1133,Sarah,Jackson,HR,Toronto,Analyst,2020-07-01 00:00:00,161277.0,2.2,25.0,2020,7,1,5.7,Medium,Needs Improvement
+DEN1027,Emily,Johnson,Creative,London,Manager,2016-11-12 00:00:00,151539.0,3.5,59.0,2016,11,12,9.3,Medium,Good
+DEN1149,Daniel,Lee,Analytics,Mumbai,Senior Director,2023-04-28 00:00:00,56089.0,3.3,122.0,2023,4,28,2.8,Low,Average
+DEN1169,Thomas,Martinez,HR,Toronto,Senior Analyst,2024-02-28 00:00:00,97349.0,4.4,40.0,2024,2,28,2.0,Low,Good
+DEN1140,Lisa,Brown,Analytics,Mumbai,Analyst,2023-07-21 00:00:00,118024.0,3.7,114.0,2023,7,21,2.6,Medium,Good
+DEN1001,Emily,Smith,Digital Marketing,Singapore,Manager,2016-07-25 00:00:00,71868.0,4.0,144.0,2016,7,25,9.6,Low,Good
+DEN1003,Susan,Miller,HR,Singapore,VP,2021-08-10 00:00:00,117926.0,4.4,6.0,2021,8,10,4.5,Medium,Good
+DEN1078,William,Anderson,Finance,Sydney,Senior Manager,2017-10-26 00:00:00,105434.0,2.4,232.5,2017,10,26,8.3,Low,Needs Improvement
+DEN1047,Linda,White,Media Planning,Toronto,Manager,2017-11-09 00:00:00,56635.0,4.1,5.0,2017,11,9,8.3,Low,Good
+DEN1219,William,Thomas,Account Management,Toronto,Manager,2019-08-08 00:00:00,176548.0,4.3,125.0,2019,8,8,6.6,Medium,Good
+DEN1136,Linda,Wilson,Finance,Toronto,Senior Director,2023-03-08 00:00:00,69926.0,2.9,85.0,2023,3,8,3.0,Low,Average
+DEN1126,Lisa,Anderson,Account Management,Mumbai,Director,2015-09-06 00:00:00,149369.0,2.8,36.0,2015,9,6,10.5,Medium,Average
+DEN1091,Susan,Jackson,Finance,London,Junior Analyst,2019-11-05 00:00:00,129494.0,3.8,11.0,2019,11,5,6.3,Medium,Good
+DEN1086,Patricia,Brown,Strategy,Singapore,Senior Manager,2022-05-29 00:00:00,66282.0,2.5,49.0,2022,5,29,3.7,Low,Average
+DEN1159,Michael,Martin,Account Management,New York,Manager,2022-12-08 00:00:00,159755.0,5.0,139.0,2022,12,8,3.2,Medium,Excellent
+DEN1204,Maria,Martinez,Finance,Singapore,Senior Director,2018-05-03 00:00:00,163893.0,2.2,0.0,2018,5,3,7.8,Medium,Needs Improvement
+DEN1099,Lisa,Brown,Finance,London,Senior Analyst,2020-08-03 00:00:00,121509.0,3.5,74.0,2020,8,3,5.6,Medium,Good
+DEN1037,David,Rodriguez,Digital Marketing,Singapore,Director,2017-04-13 00:00:00,114201.0,3.5,69.0,2017,4,13,8.9,Medium,Good
+DEN1200,Jessica,Garcia,Analytics,Singapore,Director,2020-10-26 00:00:00,119461.0,4.5,69.0,2020,10,26,5.3,Medium,Excellent
+DEN1062,Linda,Lee,Strategy,São Paulo,Manager,2018-01-22 00:00:00,159251.0,3.5,104.0,2018,1,22,8.1,Medium,Good
+DEN1023,Robert,Lee,Account Management,São Paulo,Manager,2023-10-19 00:00:00,115578.5,4.4,53.0,2023,10,19,2.4,Medium,Good
+DEN1147,Patricia,Johnson,Creative,Singapore,Senior Manager,2017-05-15 00:00:00,80975.0,4.3,79.0,2017,5,15,8.8,Low,Good
+DEN1125,Elizabeth,White,HR,Sydney,Junior Analyst,2022-09-28 00:00:00,142132.0,2.7,118.0,2022,9,28,3.4,Medium,Average
+DEN1034,John,Moore,Media Planning,London,Manager,2020-09-03 00:00:00,250665.5,2.4,94.0,2020,9,3,5.5,High,Needs Improvement
+DEN1012,Susan,Rodriguez,HR,Toronto,Director,2017-06-17 00:00:00,81262.0,3.5,28.0,2017,6,17,8.7,Low,Good
+DEN1218,Jessica,Martin,HR,Tokyo,Manager,2015-05-10 00:00:00,73808.0,2.6,117.0,2015,5,10,10.8,Low,Average
+DEN1177,Daniel,Thompson,Strategy,Tokyo,Senior Manager,2019-10-25 00:00:00,45410.0,3.8,66.0,2019,10,25,6.3,Low,Good
+DEN1007,Maria,Williams,Strategy,London,Senior Director,2018-02-12 00:00:00,163858.0,3.9,98.0,2018,2,12,8.0,Medium,Good
+DEN1028,Richard,Johnson,Account Management,Toronto,Junior Analyst,2019-05-19 00:00:00,114521.0,4.8,121.0,2019,5,19,6.8,Medium,Excellent
+DEN1139,Sarah,Martinez,Digital Marketing,Mumbai,Analyst,2021-06-25 00:00:00,178015.0,2.6,128.0,2021,6,25,4.7,Medium,Average
+DEN1215,William,Jackson,Finance,Tokyo,Senior Analyst,2018-09-05 00:00:00,128500.0,2.5,81.0,2018,9,5,7.5,Medium,Average
+DEN1154,James,Miller,Account Management,Tokyo,Analyst,2016-12-26 00:00:00,174529.0,3.4,149.0,2016,12,26,9.2,Medium,Average
+DEN1005,Emily,Anderson,Analytics,Sydney,Junior Analyst,2023-03-08 00:00:00,165435.0,3.6,101.0,2023,3,8,3.0,Medium,Good
+DEN1123,David,Johnson,Creative,Sydney,VP,2016-04-20 00:00:00,70478.0,2.7,142.0,2016,4,20,9.9,Low,Average
+DEN1033,William,Davis,Digital Marketing,Toronto,Senior Analyst,2022-07-14 00:00:00,123642.0,3.4,23.0,2022,7,14,3.6,Medium,Average
+DEN1127,Thomas,Williams,Strategy,New York,Junior Analyst,2023-10-28 00:00:00,132427.0,2.7,37.0,2023,10,28,2.3,Medium,Average
+DEN1162,William,Williams,Account Management,Mumbai,Senior Manager,2022-05-11 00:00:00,147749.0,2.4,26.0,2022,5,11,3.8,Medium,Needs Improvement
+DEN1163,Maria,Lee,HR,Mumbai,Senior Analyst,2022-07-07 00:00:00,69498.0,3.9,113.0,2022,7,7,3.6,Low,Good
+DEN1194,Jessica,Moore,Media Planning,Mumbai,Director,2022-12-16 00:00:00,62023.0,3.6,79.0,2022,12,16,3.2,Low,Good
+DEN1063,William,Taylor,Account Management,São Paulo,Senior Analyst,2021-12-23 00:00:00,52069.0,4.7,149.0,2021,12,23,4.2,Low,Excellent
+DEN1129,Patricia,Smith,Digital Marketing,Tokyo,Senior Analyst,2021-01-21 00:00:00,110707.0,4.4,33.0,2021,1,21,5.1,Low,Good
+DEN1201,Robert,Lee,Digital Marketing,Tokyo,Senior Manager,2021-11-21 00:00:00,69491.0,3.5,48.0,2021,11,21,4.3,Low,Good
+DEN1196,Elizabeth,Smith,Analytics,Mumbai,VP,2024-01-05 00:00:00,79018.0,3.8,80.5,2024,1,5,2.1,Low,Good
+DEN1071,Daniel,Wilson,Creative,Toronto,VP,2016-03-08 00:00:00,158645.0,4.9,122.0,2016,3,8,10.0,Medium,Excellent
+DEN1173,William,Brown,Analytics,Tokyo,Senior Analyst,2015-06-06 00:00:00,120203.0,3.4,125.0,2015,6,6,10.7,Medium,Average
+DEN1065,Robert,Moore,Analytics,Mumbai,Senior Director,2018-02-13 00:00:00,155510.0,2.8,25.0,2018,2,13,8.0,Medium,Average
+DEN1045,Michael,Rodriguez,Analytics,Toronto,Director,2015-04-24 00:00:00,75236.0,4.6,71.0,2015,4,24,10.8,Low,Excellent
+DEN1151,Jessica,White,Finance,Mumbai,Analyst,2019-11-24 00:00:00,72751.0,2.7,107.0,2019,11,24,6.3,Low,Average
+DEN1041,Jennifer,Miller,Strategy,London,Director,2023-10-01 00:00:00,151529.0,4.9,44.0,2023,10,1,2.4,Medium,Excellent
+DEN1124,David,Taylor,Finance,Mumbai,Senior Director,2021-08-02 00:00:00,85507.0,4.7,30.0,2021,8,2,4.6,Low,Excellent
+DEN1024,Emily,Brown,HR,Mumbai,Senior Director,2019-08-11 00:00:00,167427.0,4.6,18.0,2019,8,11,6.5,Medium,Excellent
+DEN1168,Lisa,Lee,Strategy,Sydney,VP,2024-05-13 00:00:00,95860.0,3.1,117.0,2024,5,13,1.8,Low,Average
+DEN1164,Daniel,Anderson,Creative,Mumbai,Senior Manager,2017-01-08 00:00:00,101149.0,3.0,129.0,2017,1,8,9.1,Low,Average
+DEN1082,Elizabeth,Brown,Creative,Sydney,VP,2020-05-14 00:00:00,160466.0,3.0,18.0,2020,5,14,5.8,Medium,Average
+DEN1040,Matthew,Lee,Account Management,Toronto,Senior Analyst,2015-06-21 00:00:00,125808.0,3.1,15.0,2015,6,21,10.7,Medium,Average
+DEN1187,Emily,Williams,Analytics,Sydney,Senior Manager,2020-01-01 00:00:00,156703.0,2.5,118.0,2020,1,1,6.2,Medium,Average
+DEN1048,Daniel,Lee,Strategy,Mumbai,Senior Director,2015-10-14 00:00:00,131559.0,3.9,36.0,2015,10,14,10.4,Medium,Good
+DEN1095,Sarah,Moore,Media Planning,Mumbai,Senior Manager,2018-08-17 00:00:00,75388.0,4.9,108.0,2018,8,17,7.5,Low,Excellent
+DEN1171,James,Moore,Account Management,Toronto,Analyst,2017-06-28 00:00:00,163260.0,4.7,11.0,2017,6,28,8.7,Medium,Excellent
+DEN1044,Jennifer,Martinez,Strategy,Singapore,Junior Analyst,2022-05-27 00:00:00,95627.0,3.2,76.0,2022,5,27,3.7,Low,Average
+DEN1146,Jennifer,Thomas,Media Planning,Sydney,VP,2020-11-28 00:00:00,125850.0,2.1,106.0,2020,11,28,5.2,Medium,Needs Improvement
+DEN1155,Matthew,Moore,Analytics,Mumbai,Senior Analyst,2019-12-07 00:00:00,62900.0,3.4,82.0,2019,12,7,6.2,Low,Average
+DEN1004,Jessica,Thomas,Analytics,Sydney,Senior Analyst,2017-05-31 00:00:00,133236.0,2.3,102.0,2017,5,31,8.7,Medium,Needs Improvement
+DEN1106,Linda,Jones,Media Planning,São Paulo,Senior Manager,2018-10-18 00:00:00,149197.0,3.9,89.0,2018,10,18,7.4,Medium,Good
+DEN1054,Richard,Jackson,HR,Singapore,Senior Analyst,2022-05-11 00:00:00,46453.0,4.7,32.0,2022,5,11,3.8,Low,Excellent
+DEN1134,William,White,Account Management,London,Senior Analyst,2018-01-31 00:00:00,130245.0,3.1,140.0,2018,1,31,8.1,Medium,Average
+DEN1202,Matthew,Thompson,Account Management,Tokyo,Director,2024-06-13 00:00:00,115578.5,4.5,12.0,2024,6,13,1.7,Medium,Excellent
+DEN1174,David,Jackson,Finance,New York,Analyst,2015-03-19 00:00:00,112088.0,2.6,43.0,2015,3,19,10.9,Low,Average
+DEN1207,Emily,Rodriguez,Finance,Singapore,Senior Analyst,2016-02-01 00:00:00,58265.0,2.9,103.0,2016,2,1,10.1,Low,Average
+DEN1050,Linda,Taylor,Account Management,Sydney,Senior Director,2021-02-22 00:00:00,45106.0,2.9,58.0,2021,2,22,5.0,Low,Average
+DEN1081,Susan,Jones,Digital Marketing,New York,Junior Analyst,2021-03-16 00:00:00,121581.0,4.1,37.0,2021,3,16,4.9,Medium,Good
+DEN1035,Michael,Davis,Analytics,Sydney,Senior Analyst,2019-11-30 00:00:00,124303.0,3.8,140.0,2019,11,30,6.2,Medium,Good
+DEN1008,Jessica,Anderson,Analytics,Singapore,Senior Manager,2022-11-14 00:00:00,63717.0,3.8,48.0,2022,11,14,3.3,Low,Good
+DEN1111,Elizabeth,Thompson,Account Management,Singapore,VP,2022-02-25 00:00:00,111578.0,3.4,7.0,2022,2,25,4.0,Low,Average
+DEN1092,Michael,Davis,Creative,Sydney,Junior Analyst,2023-07-23 00:00:00,90925.0,3.4,118.0,2023,7,23,2.6,Low,Average
+DEN1084,David,Jones,Digital Marketing,London,Manager,2016-04-30 00:00:00,154097.0,3.8,62.0,2016,4,30,9.8,Medium,Good
+DEN1198,David,Wilson,Media Planning,São Paulo,VP,2022-08-17 00:00:00,135312.0,2.4,146.0,2022,8,17,3.5,Medium,Needs Improvement
+DEN1213,Thomas,Lee,Digital Marketing,London,Senior Analyst,2016-02-01 00:00:00,148259.0,3.1,91.0,2016,2,1,10.1,Medium,Average
+DEN1090,Maria,Moore,Media Planning,São Paulo,VP,2022-11-06 00:00:00,150515.0,4.8,133.0,2022,11,6,3.3,Medium,Excellent
+DEN1009,Susan,Davis,Account Management,São Paulo,Senior Director,2018-01-10 00:00:00,250665.5,4.1,19.0,2018,1,10,8.1,High,Good
+DEN1014,Daniel,Rodriguez,Creative,London,Senior Manager,2023-08-15 00:00:00,134174.0,2.3,116.0,2023,8,15,2.5,Medium,Needs Improvement
+DEN1060,Michael,Thomas,HR,Mumbai,VP,2019-08-31 00:00:00,61322.0,2.6,112.0,2019,8,31,6.5,Low,Average
+DEN1191,Jennifer,Moore,Media Planning,Tokyo,Director,2019-06-19 00:00:00,127414.0,3.9,68.0,2019,6,19,6.7,Medium,Good
+DEN1132,Matthew,Brown,Finance,Singapore,Junior Analyst,2023-02-26 00:00:00,124070.0,3.4,12.0,2023,2,26,3.0,Medium,Average
+DEN1018,Lisa,Johnson,Strategy,London,Analyst,2023-03-17 00:00:00,172399.0,4.4,141.0,2023,3,17,2.9,Medium,Good
+DEN1167,Thomas,Johnson,HR,Mumbai,Manager,2019-12-25 00:00:00,119692.0,0.6999999999999993,119.0,2019,12,25,6.2,Medium,Needs Improvement
+DEN1073,William,Davis,Media Planning,Sydney,VP,2017-09-25 00:00:00,166820.0,3.7,102.0,2017,9,25,8.4,Medium,Good
+DEN1195,Maria,Garcia,Account Management,Mumbai,Manager,2016-05-12 00:00:00,97685.0,4.4,65.0,2016,5,12,9.8,Low,Good
+DEN1135,Maria,Moore,HR,London,Analyst,2024-07-25 00:00:00,101367.0,3.3,63.0,2024,7,25,1.6,Low,Average
+DEN1185,Thomas,Taylor,Analytics,Tokyo,VP,2022-10-05 00:00:00,175422.0,3.1,137.0,2022,10,5,3.4,Medium,Average
+DEN1205,Jessica,Moore,HR,São Paulo,VP,2017-04-15 00:00:00,134179.0,3.8,85.0,2017,4,15,8.9,Medium,Good
+DEN1064,John,Williams,HR,Tokyo,VP,2017-01-14 00:00:00,58181.0,2.8,88.0,2017,1,14,9.1,Low,Average
+DEN1055,Linda,Davis,Account Management,São Paulo,Junior Analyst,2021-04-02 00:00:00,110325.0,4.8,36.0,2021,4,2,4.9,Low,Excellent
+DEN1108,Lisa,Williams,HR,London,Analyst,2019-12-23 00:00:00,88611.0,4.1,12.0,2019,12,23,6.2,Low,Good
+DEN1051,Linda,Thompson,Analytics,São Paulo,VP,2019-12-17 00:00:00,101020.0,3.5,48.0,2019,12,17,6.2,Low,Good
+DEN1175,Susan,White,HR,London,Senior Manager,2017-08-31 00:00:00,123944.0,2.4,66.0,2017,8,31,8.5,Medium,Needs Improvement
+DEN1220,Sarah,Jones,Strategy,Mumbai,VP,2020-11-22 00:00:00,143782.0,2.9,49.0,2020,11,22,5.3,Medium,Average
+DEN1170,James,Johnson,Finance,Mumbai,Analyst,2022-12-23 00:00:00,77683.0,2.9,46.0,2022,12,23,3.2,Low,Average
+DEN1059,William,Lee,Media Planning,Tokyo,Senior Analyst,2017-08-05 00:00:00,145410.0,4.1,59.0,2017,8,5,8.6,Medium,Good
+DEN1049,Maria,Martin,Digital Marketing,Toronto,Director,2019-07-07 00:00:00,122504.0,3.7,54.0,2019,7,7,6.6,Medium,Good
+DEN1089,Lisa,Jones,Digital Marketing,Tokyo,Analyst,2015-09-02 00:00:00,88495.0,4.4,150.0,2015,9,2,10.5,Low,Good
+DEN1022,Lisa,Williams,Creative,Mumbai,Analyst,2020-10-06 00:00:00,107391.0,2.8,129.0,2020,10,6,5.4,Low,Average
+DEN1058,Daniel,Jackson,Strategy,Sydney,VP,2015-11-14 00:00:00,119901.0,2.7,90.0,2015,11,14,10.3,Medium,Average
+DEN1161,Patricia,Johnson,Analytics,London,Director,2016-01-23 00:00:00,146335.0,2.9,43.0,2016,1,23,10.1,Medium,Average
+DEN1216,Matthew,Wilson,Finance,Sydney,VP,2024-02-24 00:00:00,49361.0,3.1,33.0,2024,2,24,2.0,Low,Average
+DEN1188,Jennifer,Moore,Creative,Mumbai,Senior Director,2018-01-29 00:00:00,115578.5,2.2,108.0,2018,1,29,8.1,Medium,Needs Improvement
+DEN1192,Emily,Smith,Account Management,São Paulo,Senior Director,2021-04-19 00:00:00,75870.0,2.8,71.0,2021,4,19,4.9,Low,Average
+DEN1130,John,Jones,Creative,Mumbai,Manager,2021-08-08 00:00:00,129874.0,2.0,72.0,2021,8,8,4.5,Medium,Needs Improvement
+DEN1038,Sarah,Williams,HR,Sydney,Junior Analyst,2015-01-15 00:00:00,132439.0,4.3,72.0,2015,1,15,11.1,Medium,Good
+DEN1158,William,White,Finance,Tokyo,Junior Analyst,2020-01-20 00:00:00,72132.0,4.4,92.0,2020,1,20,6.1,Low,Good
+DEN1210,Daniel,Moore,Strategy,Singapore,Director,2015-07-19 00:00:00,58248.0,2.8,125.0,2015,7,19,10.6,Low,Average
+DEN1002,Michael,Thompson,HR,New York,Junior Analyst,2016-01-19 00:00:00,102314.0,2.7,11.0,2016,1,19,10.1,Low,Average
+DEN1053,David,Smith,Creative,Singapore,VP,2021-11-08 00:00:00,64091.0,3.4,54.0,2021,11,8,4.3,Low,Average
+DEN1150,Michael,Wilson,HR,Toronto,Senior Director,2018-03-31 00:00:00,75192.0,3.2,88.0,2018,3,31,7.9,Low,Average
+DEN1131,Sarah,Jones,HR,London,Analyst,2020-05-04 00:00:00,162512.0,4.3,136.0,2020,5,4,5.8,Medium,Good
+DEN1152,Daniel,Williams,HR,Sydney,Director,2017-06-26 00:00:00,132311.0,4.3,24.0,2017,6,26,8.7,Medium,Good
+DEN1104,Unknown,Johnson,Analytics,São Paulo,Senior Director,2019-05-01 00:00:00,84873.0,3.5,14.0,2019,5,1,6.8,Low,Good
+DEN1100,Linda,Jackson,Finance,Singapore,VP,2021-03-07 00:00:00,82917.0,3.2,80.5,2021,3,7,5.0,Low,Average
+DEN1117,David,Williams,Digital Marketing,Mumbai,Senior Director,2016-12-20 00:00:00,97637.0,2.4,143.0,2016,12,20,9.2,Low,Needs Improvement
+DEN1088,Maria,Martinez,Finance,London,Manager,2017-12-19 00:00:00,96857.0,3.3,144.0,2017,12,19,8.2,Low,Average
+DEN1203,Michael,Johnson,Digital Marketing,Singapore,Senior Director,2021-12-06 00:00:00,52939.0,3.5,144.0,2021,12,6,4.2,Low,Good
+DEN1075,William,Rodriguez,Digital Marketing,New York,Manager,2015-12-17 00:00:00,108270.0,4.2,130.0,2015,12,17,10.2,Low,Good
+DEN1211,Maria,Lee,Creative,London,Senior Director,2016-07-02 00:00:00,114329.0,4.2,108.0,2016,7,2,9.7,Medium,Good
+DEN1122,William,White,Strategy,London,VP,2022-11-11 00:00:00,124217.0,3.9,34.0,2022,11,11,3.3,Medium,Good
+DEN1021,Michael,Wilson,Creative,Singapore,Manager,2015-01-30 00:00:00,63610.0,4.1,20.0,2015,1,30,11.1,Low,Good
+DEN1189,Jennifer,Martin,Account Management,New York,Senior Analyst,2024-07-08 00:00:00,159864.0,2.1,22.0,2024,7,8,1.6,Medium,Needs Improvement
+DEN1072,David,Thomas,Account Management,Sydney,VP,2019-12-28 12:00:00,159183.0,4.5,73.0,2019,12,28,6.2,Medium,Excellent
+DEN1107,Susan,Taylor,Analytics,São Paulo,Junior Analyst,2021-12-04 00:00:00,62936.0,2.7,78.0,2021,12,4,4.2,Low,Average
+DEN1015,Jessica,Moore,Creative,Sydney,Senior Analyst,2020-09-10 00:00:00,72894.0,4.6,81.0,2020,9,10,5.5,Low,Excellent
+DEN1093,James,Garcia,HR,São Paulo,Analyst,2020-04-09 00:00:00,136215.0,3.2,87.0,2020,4,9,5.9,Medium,Average
+DEN1180,John,Anderson,Media Planning,Mumbai,Manager,2023-03-22 00:00:00,72174.0,4.3,90.0,2023,3,22,2.9,Low,Good
+DEN1103,Susan,Taylor,Finance,Mumbai,Manager,2022-10-27 00:00:00,107601.0,3.7,64.0,2022,10,27,3.3,Low,Good
